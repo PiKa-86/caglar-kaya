@@ -1,7 +1,5 @@
 ## Caglar Kaya :sunglasses: Full Stack Web Developer :man_technologist:
 
----
-
 ### Hello, everybody! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
 I'm from Turkey :tr:, living in Netherlands :netherlands: and currently studying at HackYourFuture.
@@ -38,7 +36,9 @@ I'm from Turkey :tr:, living in Netherlands :netherlands: and currently studying
 
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caglar-kaya)](https://github.com/caglar-kaya/)
+---
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caglar-kaya)](https://github.com/caglar-kaya/)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->

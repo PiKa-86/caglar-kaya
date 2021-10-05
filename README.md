@@ -2,7 +2,11 @@
 
 ### Hello, everybody! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
+---
+
 I'm from Turkey :tr:, living in Netherlands :netherlands: and currently studying at HackYourFuture.
+<br>
+My hobbies are :diving_mask: :ski: :tennis: :bowling: :bike:
 
 ---
 
@@ -32,13 +36,17 @@ I'm from Turkey :tr:, living in Netherlands :netherlands: and currently studying
 
 ---
 
+![Profile views](https://gpvc.arturio.dev/caglar-kaya)
+
+---
+
 [![Caglar's GitHub stats](https://github-readme-stats.vercel.app/api?username=caglar-kaya&show_icons=true&theme=highcontrast)](https://github.com/caglar-kaya/)
 
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
 ---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caglar-kaya)](https://github.com/caglar-kaya/)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caglar-kaya&layout=compact)](https://github.com/caglar-kaya/)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
@@ -50,6 +58,12 @@ I'm from Turkey :tr:, living in Netherlands :netherlands: and currently studying
 
 ---
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caglar-kaya&repo=HYF-Module-HTMLCSSGIT&show_owner=true)](https://github.com/caglar-kaya/HYF-Module-HTMLCSSGIT)
 
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caglar-kaya&repo=caglar-website-project&show_owner=true)](https://github.com/caglar-kaya/caglar-website-project)
+
+---
 
 
